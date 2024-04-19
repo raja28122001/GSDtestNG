@@ -1,0 +1,14 @@
+16:53:39.261 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318630\eclipse-workspace\GSDProject\crossBrowser.xml
+
+16:53:47.872 [main] INFO  TestCases.TC001_ValidateUserInfo - -----------Driver setup done with chrome browser------------------
+16:53:48.008 [main] INFO  TestCases.TC001_ValidateUserInfo - ************TC001_ValidateUserInfo Started ****************
+16:53:50.671 [main] INFO  TestCases.TC001_ValidateUserInfo - clicked User Profile
+16:53:52.811 [main] INFO  TestCases.TC001_ValidateUserInfo - Captured UserInfo
+16:53:52.811 [main] INFO  TestCases.TC001_ValidateUserInfo - TC001 Test passed
+16:53:53.209 [main] INFO  TestCases.TC001_ValidateUserInfo - ************TC002_ValidateWelcomeMsg***************
+16:53:53.338 [main] INFO  TestCases.TC001_ValidateUserInfo - Clicked OneC
+16:53:56.649 [main] INFO  TestCases.TC001_ValidateUserInfo - Searching Gsd in input search box
+16:53:57.316 [main] INFO  TestCases.TC001_ValidateUserInfo - Clicked GSD Link
+16:53:57.613 [main] ERROR TestCases.TC001_ValidateUserInfo - TC002 Test Failed
+16:53:57.633 [main] INFO  TestCases.TC001_ValidateUserInfo - ----------Driver Closed---------------
